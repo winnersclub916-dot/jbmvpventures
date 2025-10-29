@@ -14,7 +14,7 @@ export default function Services() {
         backgroundImage="/happy-business-people-shaking-hands-business-success.jpeg"
         alt="Business professionals"
         title="Empowering Lives Through Opportunities & Services"
-        description="Join Winners Group and transform your life through our comprehensive multi-level marketing platform. Build your empire across 20 diverse service sectors."
+        description="Join WINNERS Group and transform your life through our comprehensive multi-level marketing platform. Build your empire across 20 diverse service sectors."
         primaryButtonText="Explore Services"
         primaryButtonLink="/services"
         secondaryButtonText="Contact Us"

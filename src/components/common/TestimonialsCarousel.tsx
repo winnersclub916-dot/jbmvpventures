@@ -18,7 +18,7 @@ interface TestimonialsCarouselProps {
 export default function TestimonialsCarousel({
   testimonials,
   title = "Success Stories",
-  description = "Hear from our successful Winners network members",
+  description = "Hear from our successful WINNERS network members",
   className = ""
 }: TestimonialsCarouselProps) {
   const [currentIndex, setCurrentIndex] = useState(0);

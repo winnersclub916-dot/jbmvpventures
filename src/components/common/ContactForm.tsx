@@ -20,7 +20,7 @@ interface ContactFormProps {
 export default function ContactForm({
   className = "",
   title = "Contact Us",
-  description = "Explore insights, stories, and updates from the Winners ecosystem—where innovation meets compassion to empower communities."
+  description = "Explore insights, stories, and updates from the WINNERS ecosystem—where innovation meets compassion to empower communities."
 }: ContactFormProps) {
   const [isPending, startTransition] = useTransition();
 

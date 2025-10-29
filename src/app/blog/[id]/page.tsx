@@ -90,7 +90,7 @@ export default function BlogDetailPage({ params }: BlogDetailPageProps) {
               <div className="mt-8 p-6 rounded-lg bg-gray-50">
                 <h3 className="text-xl font-bold text-foreground mb-2">About the Author</h3>
                 <p className="text-muted-foreground">
-                  {post.author} is dedicated to sharing inspiring stories and insights from the Winners ecosystem. 
+                  {post.author} is dedicated to sharing inspiring stories and insights from the WINNERS ecosystem. 
                   Our team works across various sectors to empower communities and create positive change.
                 </p>
               </div>

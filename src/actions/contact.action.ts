@@ -24,7 +24,7 @@ export async function sendContactMail(formData: FormData) {
 
     try {
         await transporter.sendMail({
-            from: `"Winners Group" <${process.env.EMAIL_USER}>`,
+            from: `"WINNERS Group" <${process.env.EMAIL_USER}>`,
             to: process.env.RECIEVER_EMAIL_USER || process.env.EMAIL_USER,
             subject: `📩 New Contact from ${name}`,
             html: `

@@ -18,7 +18,7 @@ interface FeatureHighlightsProps {
 export default function FeatureHighlights({
   features,
   title = "Unlock Your Potential",
-  description = "Discover the endless opportunities that await you in the Winners network",
+  description = "Discover the endless opportunities that await you in the WINNERS network",
   className = "",
   backgroundGradient = "bg-gradient-to-br from-[#E89528] to-[#D4A027]"
 }: FeatureHighlightsProps) {

@@ -28,7 +28,7 @@ export default function ContactPage() {
 
       <CallToAction
         title="Ready To Start Your Journey?"
-        description="Join thousands of successful entrepreneurs who have transformed their lives with Winners Group."
+        description="Join thousands of successful entrepreneurs who have transformed their lives with WINNERS Group."
         primaryButtonText="Get Started Today"
         primaryButtonLink="/services"
         secondaryButtonText="Contact Us"

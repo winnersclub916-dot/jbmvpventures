@@ -59,7 +59,7 @@ export default function HeroSection({
             </p>
           )}
           {(primaryButtonText || secondaryButtonText) && (
-            <div className="mt-6 flex items-center gap-3">
+            <div className="mt-6 flex flex-wrap items-center gap-3">
               {primaryButtonText && primaryButtonLink && (
                 <Button className="rounded-full px-8 py-5 bg-white text-foreground hover:bg-white/90 font-medium" asChild>
                   <Link href={primaryButtonLink}>{primaryButtonText}</Link>

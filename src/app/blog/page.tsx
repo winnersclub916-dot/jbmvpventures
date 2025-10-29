@@ -17,7 +17,7 @@ export default function Blog() {
         backgroundImage="/image 19.png"
         alt="Blog Hero"
         title="Shaping The Future, One Story At A Time"
-        description="Explore insights, stories, and updates from the Winners ecosystem — where innovation meets compassion to empower communities."
+        description="Explore insights, stories, and updates from the WINNERS ecosystem — where innovation meets compassion to empower communities."
         primaryButtonText="Read Our Story"
         primaryButtonLink="#featured"
         height="h-80 md:h-96"

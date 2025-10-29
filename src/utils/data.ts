@@ -24,7 +24,7 @@ import {
 export const SERVICES = [
   {
     id: 1,
-    title: "Winners Training Program",
+    title: "WINNERS Training Program",
     description:
       "Comprehensive training programs to develop skills and expertise across various industries.",
     icon: GraduationCap,
@@ -56,7 +56,7 @@ export const SERVICES = [
   },
   {
     id: 2,
-    title: "Winners Medical",
+    title: "WINNERS Medical",
     description: "Healthcare services and medical solutions for communities and individuals.",
     icon: Stethoscope,
     "What We Offer": {
@@ -81,7 +81,7 @@ export const SERVICES = [
   },
   {
     id: 3,
-    title: "Winners Insurance",
+    title: "WINNERS Insurance",
     description: "Protective insurance services covering various aspects of life and business.",
     icon: Shield,
     "What We Offer": {
@@ -106,7 +106,7 @@ export const SERVICES = [
   },
   {
     id: 4,
-    title: "Winners Food Production & Packing",
+    title: "WINNERS Food Production & Packing",
     description: "Quality food production and packaging services for diverse markets.",
     icon: Package,
     "What We Offer": {
@@ -131,7 +131,7 @@ export const SERVICES = [
   },
   {
     id: 5,
-    title: "Winners Education",
+    title: "WINNERS Education",
     description: "Educational services and learning opportunities for all age groups.",
     icon: BookOpen,
     "What We Offer": {
@@ -156,7 +156,7 @@ export const SERVICES = [
   },
   {
     id: 6,
-    title: "Winners Marketing Centers",
+    title: "WINNERS Marketing Centers",
     description: "Strategic marketing solutions and promotional services for businesses.",
     icon: Target,
     "What We Offer": {
@@ -181,7 +181,7 @@ export const SERVICES = [
   },
   {
     id: 7,
-    title: "Winners Club",
+    title: "WINNERS Club",
     description: "Exclusive membership benefits and networking opportunities.",
     icon: Users,
     "What We Offer": {
@@ -206,7 +206,7 @@ export const SERVICES = [
   },
   {
     id: 8,
-    title: "Winners Courier Services",
+    title: "WINNERS Courier Services",
     description: "Reliable courier and logistics services for all your delivery needs.",
     icon: Truck,
     "What We Offer": {
@@ -231,7 +231,7 @@ export const SERVICES = [
   },
   {
     id: 9,
-    title: "Winners Agriculture",
+    title: "WINNERS Agriculture",
     description: "Agricultural services and farming solutions for sustainable growth.",
     icon: Wheat,
     "What We Offer": {
@@ -256,7 +256,7 @@ export const SERVICES = [
   },
   {
     id: 10,
-    title: "Winners Construction",
+    title: "WINNERS Construction",
     description: "Professional construction and building services for various projects.",
     icon: Hammer,
     "What We Offer": {
@@ -281,7 +281,7 @@ export const SERVICES = [
   },
   {
     id: 11,
-    title: "Winners Travel & Tourism",
+    title: "WINNERS Travel & Tourism",
     description: "Travel planning and tourism services for memorable experiences.",
     icon: Plane,
     "What We Offer": {
@@ -306,7 +306,7 @@ export const SERVICES = [
   },
   {
     id: 12,
-    title: "Winners Vehicle Sales & Service",
+    title: "WINNERS Vehicle Sales & Service",
     description: "Vehicle sales, maintenance, and automotive services.",
     icon: Car,
     "What We Offer": {
@@ -331,7 +331,7 @@ export const SERVICES = [
   },
   {
     id: 13,
-    title: "Winners Garments, Textile & Handloom",
+    title: "WINNERS Garments, Textile & Handloom",
     description: "Quality textile and handloom products with traditional craftsmanship.",
     icon: Shirt,
     "What We Offer": {
@@ -356,7 +356,7 @@ export const SERVICES = [
   },
   {
     id: 14,
-    title: "Winners Job Consulting",
+    title: "WINNERS Job Consulting",
     description: "Career guidance and job placement services for professionals.",
     icon: Briefcase,
     "What We Offer": {
@@ -381,7 +381,7 @@ export const SERVICES = [
   },
   {
     id: 15,
-    title: "Winners Chit Funds & Finance",
+    title: "WINNERS Chit Funds & Finance",
     description: "Financial services and investment opportunities for wealth creation.",
     icon: DollarSign,
     "What We Offer": {
@@ -406,7 +406,7 @@ export const SERVICES = [
   },
   {
     id: 16,
-    title: "Winners Fuels & LPG Agency",
+    title: "WINNERS Fuels & LPG Agency",
     description: "Fuel distribution and LPG agency services for communities.",
     icon: Fuel,
     "What We Offer": {
@@ -440,7 +440,7 @@ export const BLOG_POSTS = [
     image: "/CodingBootcamp.jpg",
     excerpt: "Discover how our comprehensive coding bootcamp transformed the lives of 50 individuals, providing them with the skills and confidence to pursue successful careers in technology.",
     content: `
-      <p>In a world where technology drives innovation and opportunity, access to quality education remains a critical barrier for many. Our Winners Training Program has been at the forefront of breaking down these barriers, and today we share the inspiring story of how our coding bootcamp transformed 50 lives.</p>
+      <p>In a world where technology drives innovation and opportunity, access to quality education remains a critical barrier for many. Our WINNERS Training Program has been at the forefront of breaking down these barriers, and today we share the inspiring story of how our coding bootcamp transformed 50 lives.</p>
       
       <h2>The Challenge</h2>
       <p>Many individuals in our communities face significant obstacles when trying to enter the tech industry. Limited access to quality education, financial constraints, and lack of mentorship often prevent talented people from pursuing their dreams in technology.</p>
@@ -474,7 +474,7 @@ export const BLOG_POSTS = [
       
       <p>The transformation we've witnessed goes beyond just technical skills. We've seen confidence grow, families stabilize, and communities strengthen. When we invest in education, we're not just building careers – we're building futures.</p>
     `,
-    author: "Winners Education Team",
+    author: "WINNERS Education Team",
     readTime: "8 min read",
     tags: ["Education", "Technology", "Success Stories", "Training"]
   },
@@ -486,7 +486,7 @@ export const BLOG_POSTS = [
     image: "/Healthcare.jpg",
     excerpt: "Our mobile health clinics are revolutionizing healthcare access in remote areas, bringing essential medical services directly to communities that need them most.",
     content: `
-      <p>Access to quality healthcare shouldn't be determined by where you live. Yet, millions of people in remote and underserved communities face significant barriers to receiving even basic medical care. Our Winners Medical initiative is changing this reality through innovative mobile health clinics.</p>
+      <p>Access to quality healthcare shouldn't be determined by where you live. Yet, millions of people in remote and underserved communities face significant barriers to receiving even basic medical care. Our WINNERS Medical initiative is changing this reality through innovative mobile health clinics.</p>
       
       <h2>The Healthcare Gap</h2>
       <p>In many rural and remote areas, the nearest hospital or clinic can be hours away. This distance, combined with transportation costs and time constraints, often means that preventable conditions go untreated and chronic diseases go unmanaged.</p>
@@ -522,7 +522,7 @@ export const BLOG_POSTS = [
       <h2>Future Expansion</h2>
       <p>Building on our success, we're planning to add three more mobile clinics to our fleet and expand our services to include dental care, mental health support, and maternal health services. Our goal is to reach 50 communities by the end of next year.</p>
     `,
-    author: "Winners Medical Team",
+    author: "WINNERS Medical Team",
     readTime: "6 min read",
     tags: ["Healthcare", "Community", "Mobile Clinics", "Accessibility"]
   },
@@ -579,7 +579,7 @@ export const BLOG_POSTS = [
       <h2>Looking Ahead</h2>
       <p>Our goal is to reach 500 women entrepreneurs in the next two years and create a sustainable ecosystem of women-led businesses that can serve as models for other communities. We're also developing partnerships with financial institutions to improve access to credit for women entrepreneurs.</p>
     `,
-    author: "Winners Women Empowerment Team",
+    author: "WINNERS Women Empowerment Team",
     readTime: "7 min read",
     tags: ["Women Empowerment", "Entrepreneurship", "Rural Development", "Economic Growth"]
   },
@@ -636,7 +636,7 @@ export const BLOG_POSTS = [
       <h2>Future Vision</h2>
       <p>We're expanding our program to include specialized tracks in emerging fields like renewable energy, digital marketing, and healthcare. Our goal is to reach 1,000 students in the next three years and create a model that can be replicated in other regions.</p>
     `,
-    author: "Winners Education Team",
+    author: "WINNERS Education Team",
     readTime: "8 min read",
     tags: ["Education", "Second Chances", "Alternative Learning", "Success Stories"]
   },
@@ -702,7 +702,7 @@ export const BLOG_POSTS = [
       <h2>Future Expansion</h2>
       <p>Building on our success, we're planning to expand to 50 more villages in the next two years. We're also exploring innovative applications like solar-powered cold storage for agricultural products and solar water purification systems.</p>
     `,
-    author: "Winners Sustainability Team",
+    author: "WINNERS Sustainability Team",
     readTime: "7 min read",
     tags: ["Sustainability", "Solar Power", "Rural Development", "Clean Energy"]
   },
@@ -772,7 +772,7 @@ export const BLOG_POSTS = [
       <h2>Looking Forward</h2>
       <p>Riverside Heights continues to evolve, with new initiatives including a community center, senior care program, and environmental sustainability projects. The neighborhood has become a model for community-led development and a source of inspiration for others.</p>
     `,
-    author: "Winners Community Team",
+    author: "WINNERS Community Team",
     readTime: "8 min read",
     tags: ["Community", "Unity", "Transformation", "Collective Action"]
   },
@@ -846,7 +846,7 @@ export const BLOG_POSTS = [
       <h2>Future Vision</h2>
       <p>We're expanding our program to include more craft categories and developing a comprehensive artisan certification system. Our goal is to create a sustainable ecosystem where traditional crafts can flourish alongside modern innovation.</p>
     `,
-    author: "Winners Culture Team",
+    author: "WINNERS Culture Team",
     readTime: "7 min read",
     tags: ["Culture", "Artisans", "Traditional Crafts", "Heritage"]
   },
@@ -920,7 +920,7 @@ export const BLOG_POSTS = [
       <h2>Future Goals</h2>
       <p>We're expanding our program to reach more communities and developing specialized services for vulnerable populations including children, elderly, and people with disabilities. Our vision is a world where mental health is treated with the same importance as physical health.</p>
     `,
-    author: "Winners Health Team",
+    author: "WINNERS Health Team",
     readTime: "8 min read",
     tags: ["Mental Health", "Awareness", "Community Support", "Wellness"]
   },
@@ -996,7 +996,7 @@ export const BLOG_POSTS = [
       <h2>Future Vision</h2>
       <p>We're exploring new opportunities in waste processing, including biogas production from organic waste and manufacturing products from recycled materials. Our vision is a world where waste is seen as a resource rather than a problem.</p>
     `,
-    author: "Winners Environment Team",
+    author: "WINNERS Environment Team",
     readTime: "7 min read",
     tags: ["Environment", "Recycling", "Job Creation", "Sustainability"]
   }

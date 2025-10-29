@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -22,6 +23,7 @@ export default function Header() {
     { label: "About Us", href: "/about" },
     { label: "Services", href: "/services" },
     { label: "Blog", href: "/blog" },
+    { label: "Members", href: "/members" },
   ];
 
   return (
@@ -29,9 +31,16 @@ export default function Header() {
       <div className="mx-auto px-4 sm:px-6 md:px-8 lg:px-10 flex items-center justify-between h-16">
         <Link
           href="/"
-          className="text-2xl font-serif font-medium tracking-wide"
+          className="flex items-center h-16 relative"
         >
-          WIN<span className="text-red-800 font-serif">N</span>ERS
+          <Image
+            src="/JBMVP%20VENTURES%20logo.png"
+            alt="JBMVP VENTURES Logo"
+            width={45}
+            height={60}
+            className="h-10 sm:h-12 w-auto object-contain"
+            priority
+          />
         </Link>
 
         <nav className="hidden md:flex items-center space-x-8">
@@ -68,7 +77,16 @@ export default function Header() {
             <SheetContent side="left" className="p-6">
               <SheetHeader>
                 <SheetTitle className="text-2xl font-serif">
-                  WIN<span className="text-red-800 font-serif">N</span>ERS
+                  <div className="flex items-center">
+                    <Image
+                      src="/JBMVP%20VENTURES%20logo.png"
+                      alt="JBMVP VENTURES Logo"
+                      width={180}
+                      height={60}
+                      className="h-10 w-auto object-contain"
+                      priority
+                    />
+                  </div>
                 </SheetTitle>
               </SheetHeader>
 
